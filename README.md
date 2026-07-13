@@ -89,8 +89,8 @@ Retail-Sales-Dashboard/
 │
 ├── Dashboard.pbix
 ├── Dataset.xlsx
-├── README.md
-└── Screenshots/
+└──  README.md
+
 ```
 
 ## 📚 Learning Outcomes
